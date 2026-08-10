@@ -1,0 +1,32 @@
+{
+  "id": "dg-hide-breaking-point",
+  "title": "Delta Green: Hide Breaking Point",
+  "description": "Hides the Breaking Point counter from non-GM users on Delta Green agent sheets. The Handler/GM continues to see it normally.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Quororque"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "deltagreen",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/hide-breaking-point.js"
+  ],
+  "styles": [
+    "styles/hide-breaking-point.css"
+  ]
+}
