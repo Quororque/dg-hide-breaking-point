@@ -8,10 +8,14 @@
       "name": "Quororque"
     }
   ],
+  "type": "module",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
+  "url": "https://github.com/Quororque/dg-hide-breaking-point",
+  "manifest": "https://github.com/Quororque/dg-hide-breaking-point/releases/download/Latest/module.json",
+  "download": "https://github.com/Quororque/dg-hide-breaking-point/releases/download/Latest/dg-hide-breaking-point.zip",
   "relationships": {
     "systems": [
       {
